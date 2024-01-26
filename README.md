@@ -1,2 +1,3 @@
-# currency-converter
-Projeto desenvolvido junto ao mentor da Podcodar com o objetivo de trabalhar algoritmos, estruturas de dados e principios de desenvolvimento web
+# Conversor de Moedas 💱
+
+Projeto desenvolvido na mentoria da Podcodar. Consiste em um conversor de moedas que permite aos usuários converter valores em Reais (R$) para Dólares Americanos (US$) e foi criado usando as tecnologias de HTML, CSS e JavaScript.
