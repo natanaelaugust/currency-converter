@@ -1,5 +1,5 @@
 body {
-  background-color: #ffffff;
+  background-color: #fff;
   color: #333;
   width: 300px;
   margin: 50px auto;
@@ -11,16 +11,19 @@ body {
 
 h2 {
   margin-bottom: 20px;
-  display: block;
 }
 
-input {
+input, select, button {
   width: 100%;
   box-sizing: border-box;
   margin-bottom: 10px;
 }
 
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
 button {
-  width: 45%;
-  margin: 10px auto;
+  width: 48%;
 }
