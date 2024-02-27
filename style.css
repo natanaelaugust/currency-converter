@@ -1,26 +1,37 @@
 body {
-  background-color: #ffffff;
-  color: #333;
   width: 300px;
   margin: 50px auto;
   padding: 20px;
-  border: 1px solid #ccc;
   border-radius: 5px;
   text-align: center;
 }
 
 h2 {
   margin-bottom: 20px;
-  display: block;
 }
 
-input {
+.container {
+  border: 1px solid black;
+}
+
+
+input, select, button {
   width: 100%;
   box-sizing: border-box;
   margin-bottom: 10px;
 }
 
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
 button {
-  width: 45%;
-  margin: 10px auto;
+  width: 48%;
+}
+
+.valor-final {
+
+margin: auto;
+
 }
